@@ -40,6 +40,7 @@ body {
 	-ms-text-size-adjust: 100%;
 	-moz-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
+    background-color: #191919;
 }
 input::-ms-clear {
 	display: none;
@@ -54,12 +55,14 @@ button::-moz-focus-inner {
 a,
 a:visited {
 	text-decoration: none;
+    color: #ffffff;
 }
 a:hover {
 	text-decoration: none;
 }
 ul li {
 	list-style: none;
+    color: #ffffff;
 }
 img {
 	vertical-align: top;
@@ -72,4 +75,9 @@ h5,
 h6 {
 	font-weight: inherit;
 	font-size: inherit;
+    color: #ffffff;
+}
+p,
+span {
+    color: #ffffff;
 }
