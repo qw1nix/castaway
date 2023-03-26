@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    align-items: center;
+}
+
+.header-logo {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.header-nav {
+    display: flex;
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.header-nav p {
+    margin-left: 40px;
+}
+
+.header-nav a:hover {
+    color: #118DA8;
+    transition: .2s;
+}
