@@ -1,0 +1,41 @@
+.improve {
+    margin-top: 55px;
+}
+
+.improve-container {
+    display: flex;
+    align-items: center;
+}
+
+.improve-container-content h1 {
+    font-size: 70px;
+    line-height: 88px;
+    letter-spacing: 3.2px;
+}
+
+.improve-container-content span {
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 3.2px;
+}
+
+.improve-container-content {
+    width: 600px;
+    margin-left: 60px;
+}
+
+.improve-container-content-strip {
+    position: relative;
+    bottom: 90px;
+}
+
+.improve-container-content p {
+    margin-bottom: 16px;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.improve-container-content a {
+    margin-right: 17px;
+}
