@@ -1,0 +1,170 @@
+.news {
+
+}
+
+.hat-news {
+    margin-top: 93px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hat-news h2 {
+    font-size: 64px;
+    line-height: 79px;
+    letter-spacing: 2.88px;
+}
+
+.hat-news button {
+    padding: 12px 15px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.audio-gear {
+    margin-top: 66px;
+    display: flex;
+    align-items: center;
+    background: #000000;
+    border-radius: 32px;
+    padding: 40px;
+}
+
+.audio-gear h2 {
+    margin-top: 18px;
+    width: 701px;
+    font-size: 64px;
+    line-height: 70px;
+    letter-spacing: 2.56px;
+}
+
+.audio-gear p {
+    margin-top: 28px;
+    width: 757px;
+    font-size: 22px;
+    line-height: 33px;
+    color: darkgrey;
+}
+
+.audio-gear button {
+    margin-top: 18px;
+    padding: 12px 15px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.episode {
+    font-size: 17px;
+    line-height: 27px;
+    color: #118DA8;
+}
+
+.gear-tooltip {
+    min-width: 41px;
+    margin-bottom: 48px;
+    text-align: center;
+    max-width: 73px;
+    padding: 5px 0;
+    background: #191919;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #ffffff;
+}
+
+.audio-gear img {
+    margin-right: 53px;
+}
+
+.mic {
+    margin-top: 66px;
+    display: flex;
+    align-items: center;
+    background: #000000;
+    border-radius: 32px;
+    padding: 40px;
+}
+
+.mic h2 {
+    margin-top: 18px;
+    width: 701px;
+    font-size: 64px;
+    line-height: 70px;
+    letter-spacing: 2.56px;
+}
+
+.mic p {
+    margin-top: 28px;
+    width: 757px;
+    font-size: 22px;
+    line-height: 33px;
+    color: darkgrey;
+}
+
+.mic button {
+    margin-top: 18px;
+    padding: 12px 15px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.mic-tooltip {
+    min-width: 104px;
+    margin-bottom: 48px;
+    text-align: center;
+    max-width: 136px;
+    padding: 5px 0;
+    background: #191919;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #ffffff;
+}
+
+.mic img {
+    margin-right: 53px;
+}
+
+.price {
+    margin-top: 66px;
+    display: flex;
+    align-items: center;
+    background: #000000;
+    border-radius: 32px;
+    padding: 40px;
+}
+
+.price h2 {
+    margin-top: 18px;
+    width: 701px;
+    font-size: 64px;
+    line-height: 70px;
+    letter-spacing: 2.56px;
+}
+
+.price p {
+    margin-top: 28px;
+    width: 757px;
+    font-size: 22px;
+    line-height: 33px;
+    color: darkgrey;
+}
+
+.price button {
+    margin-top: 18px;
+    padding: 12px 15px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.price img {
+    margin-right: 53px;
+}
