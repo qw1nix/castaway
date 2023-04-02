@@ -1,0 +1,52 @@
+.help-container {
+    margin-top: 260px;
+    display: flex;
+    align-items: center;
+}
+
+.help-content {
+    margin-right: 94px;
+}
+
+.arrow {
+    width: 112px;
+    padding: 34px 24px 40px 17px;
+    background: #118DA8;
+    border-radius: 400px;   
+}
+
+.help-image img {
+    border-radius: 12px;
+}
+
+.host {
+    margin-top: 20px;
+}
+
+.host span {
+    font-size: 18px;
+    line-height: 27px;
+    color: #118DA8; 
+}
+
+.name h2 {
+    margin-top: 25px;
+    font-size: 65px;
+    line-height: 79px;
+    letter-spacing: 2.88px;
+    color: #FFFFFF;
+}
+
+.aid p {
+    margin-top: 28px;
+    font-size: 22px;
+    line-height: 33px;
+    color: darkgrey;
+}
+
+.learned p {
+    margin-top: 33px;
+    font-size: 22px;
+    line-height: 33px;
+    color: darkgrey;
+}
