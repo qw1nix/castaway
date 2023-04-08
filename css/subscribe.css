@@ -1,0 +1,54 @@
+.subscribe-container {
+    display: flex;
+    margin-top: 201px;
+    background: #000000;
+    border-radius: 32px;
+    padding: 60px 60px 75px 60px;
+    justify-content: space-between;
+}
+
+.subscribe-content span {
+    font-size: 18px;
+    line-height: 27px;
+    color: #118DA8;
+}
+
+.subscribe-content h2 {
+    width: 431px;
+    font-size: 72px;
+    line-height: 79px;
+    letter-spacing: 2.88px;
+}
+
+.subscribe-content img {
+    position: absolute;
+    margin-top: 55px;
+    left: 190px;
+}
+
+.subscribe-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.subscribe-input input {
+    width: 503px;
+    font-size: 24px;
+    line-height: 29px;
+    background: #191919;
+    border-radius: 6px;
+    margin: 0 0 20px 0;
+    color: darkgray;
+    padding: 26px 19px;
+}
+
+.subscribe-input button {
+    padding: 10px 15px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+    max-width: fit-content;
+}
