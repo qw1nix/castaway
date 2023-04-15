@@ -1,0 +1,32 @@
+.review {
+    margin-top: 200px;
+}
+
+.review-conteiner { 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30px;
+    display: flex;
+    gap: 16px;
+}
+
+.review-content {
+    background: #000000;
+    border-radius: 32px;
+    padding: 50px;
+    width: 423px;
+    height: 321px;
+}
+
+.review-content p {
+    font-size: 36px;
+    line-height: 43px;
+    margin: 20px 0;
+}
+
+.review-content span {
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
