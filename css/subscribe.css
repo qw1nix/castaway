@@ -52,3 +52,25 @@
     color: rgba(255, 255, 255, 0.7);
     max-width: fit-content;
 }
+
+@media only screen and (max-width: 768px) {
+    .subscribe-container {
+        flex-direction: column;
+        margin-top: 100px;
+        align-items: center;
+    }
+
+    .subscribe-content h2 {
+        font-size: 60px;
+        width: 370px;
+        margin: 15px 0;
+    }
+
+    .subscribe-content img {
+        display: none;
+    }
+
+    .subscribe-input button {
+        margin-top: 15px;
+    }
+}
