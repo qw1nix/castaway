@@ -36,3 +36,31 @@
 .footer-icons a {
     margin-right: 18px;
 }
+
+@media only screen and (max-width: 768px) {
+    .footer {
+        margin-top: 100px;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-nav:nth-of-type(3) {
+        display: none;
+    }
+
+    .footer-logo {
+        margin-right: 0;
+    }
+
+    .footer-logo a {
+        margin-left: 15px;
+        margin-right: 0;
+    }
+
+    .footer-nav {
+        margin: 25px 0;
+    }
+}
