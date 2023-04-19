@@ -39,3 +39,33 @@
 .improve-container-content a {
     margin-right: 17px;
 }
+
+@media only screen and (max-width: 768px) {
+    .improve-container {
+        flex-direction: column;
+    }
+
+    .improve-container-image img {
+        height: 200px;
+        min-width: 370px;
+        object-fit: cover;
+    }
+
+    .improve-container-content h1 {
+        font-size: 55px;
+    }
+
+    .improve-container-content span {
+        font-size: 60px;
+    }
+
+    .improve-container-content {
+        margin-top: 20px;
+    }
+
+    .improve-container-content p, a {
+        bottom: 50px;
+        position: relative;
+        
+    }
+}
