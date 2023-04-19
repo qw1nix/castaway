@@ -24,3 +24,21 @@
     color: #118DA8;
     transition: .2s;
 }
+
+@media only screen and (max-width: 768px) {
+    .header {
+        flex-direction: column;
+    }
+
+    .header-nav {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 20px;
+        font-size: 22px;
+    }
+
+    .header-nav p {
+        margin-left: 0px;
+        margin-bottom: 15px;
+    }
+}
